@@ -1,5 +1,5 @@
 /**
- * 类的功能描述
+ * 快排
  *
  * @author ZHENG
  * @version 1.0

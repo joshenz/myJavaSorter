@@ -1,5 +1,5 @@
 /**
- * 类的功能描述
+ * 插入排序
  *
  * @author ZHENG
  * @version 1.0
